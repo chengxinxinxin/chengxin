@@ -1,8 +1,7 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "
-wx16f8c28286bbf723",
+"app_id": "wx16f8c28286bbf723",
 # 公众号appSecret
 "app_secret": "22ba4e48040cd9e2c0a7903d48257e15",
 # 模板消息id
